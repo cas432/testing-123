@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print(n)
 
 # cannot be in global scope
+#yes
